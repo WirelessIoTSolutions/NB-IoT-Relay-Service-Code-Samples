@@ -13,7 +13,7 @@ The code samples ar written in python. To get started please create a virtual en
 
 ### Uplink messages
 
-Uplink messages are sent from the device to over the relay service to a message consumer.
+Uplink messages are sent from the device over the relay service to a message consumer.
 Parameters can be accessed on the NRS dashboard.
 
 To send an uplink message, use `uplink.py`.
